@@ -9,10 +9,12 @@ Ps: :heavy_exclamation_mark: Dont Forget To Use a Vpn !! (Mostly IP:USA ) :heavy
 Install Packages<br>
 	pkg install python3 & git<br>
 Install The Tool<br>
-	git clone https://github.com/m4rktn/zeroeye/<br>
+ $ pkg install python3 & git
+Install The Tool<br>
+ $ git clone https://github.com/m4rktn/zeroeye/<br>
 Run Zeroeye <br>
-	cd zeroeye<br>
-	python dream.py<br>
+ $ cd zeroeye<br>
+ $ python dream.py<br>
 <h3>SrceenShot</h3><br>
 <img src="https://i.imgur.com/8DJ2HXD.png" />
 <h3>My Channel</h3>
