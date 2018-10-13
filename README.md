@@ -7,6 +7,7 @@ Ps: :heavy_exclamation_mark: Dont Forget To Use a Vpn !! (Mostly IP:USA ) :heavy
 + SquadCyber : https://www.squadcyber.com/2018/08/license-key-generator.html<br>
 + Termux Tutorial : https://www.termux-tutorial.ga/2018/07/license-key-generator-hidemyass.html<br>
 + Destinymodz ID  : https://www.destinymodz.zone.id/generator-lisensi-vpn-hma-dll<br>
++ Tutoriaz ID: https://www.tutoriaz.zone.id/2018/09/key-generator-termux.html
 <h1>Termux</h1><br>
 Install Packages<br>
 	pkg install python3 & git<br>
